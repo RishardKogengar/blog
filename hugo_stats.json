@@ -489,6 +489,7 @@
       "shrink-0",
       "sidebar-active-item",
       "skills-content",
+      "skills-description",
       "skills-icon",
       "skills-name",
       "sm:-inset-x-6",
@@ -594,6 +595,7 @@
       "did-you-find-this-page-helpful-consider-sharing-it-",
       "hide-button",
       "inline-images",
+      "latex-зачем-он-нужен",
       "math",
       "moon",
       "nav-menu",
@@ -625,9 +627,13 @@
       "test-students",
       "top",
       "video",
+      "где-применяется-latex",
       "итоги-недели-",
       "о-себе",
-      "управление-версиями-зачем-это-нужно-и-как-работает-git"
+      "преимущества-latex",
+      "управление-версиями-зачем-это-нужно-и-как-работает-git",
+      "что-такое-языки-разметки",
+      "языки-разметки-и-их-роль-введение-в-latex"
     ]
   }
 }
